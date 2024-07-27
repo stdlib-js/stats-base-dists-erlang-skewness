@@ -67,7 +67,7 @@ The [skewness][skewness] for an [Erlang][erlang-distribution] random variable wi
 ## Usage
 
 ```javascript
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-skewness@esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-skewness@v0.2.2-esm/index.mjs';
 ```
 
 #### skewness( k, lambda )
@@ -144,7 +144,7 @@ v = skewness( 2, -1.0 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@esm/index.mjs';
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-skewness@esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-skewness@v0.2.2-esm/index.mjs';
 
 var lambda;
 var k;
