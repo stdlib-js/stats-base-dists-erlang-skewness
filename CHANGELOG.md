@@ -2,6 +2,65 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-04-05)
+
+<section class="features">
+
+### Features
+
+-   [`9caa895`](https://github.com/stdlib-js/stdlib/commit/9caa8956025e6a2ad50585fc580c636f399e61fe) - add C implementation for `stats/base/dists/erlang/skewness` [(#4291)](https://github.com/stdlib-js/stdlib/pull/4291)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3577](https://github.com/stdlib-js/stdlib/issues/3577)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`9caa895`](https://github.com/stdlib-js/stdlib/commit/9caa8956025e6a2ad50585fc580c636f399e61fe) - **feat:** add C implementation for `stats/base/dists/erlang/skewness` [(#4291)](https://github.com/stdlib-js/stdlib/pull/4291) _(by Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
+-   [`611fed3`](https://github.com/stdlib-js/stdlib/commit/611fed3fdb1d06516f0ad5fc9724356307810d1c) - **bench:** refactor random number generation in `stats/base/dists/erlang` [(#4916)](https://github.com/stdlib-js/stdlib/pull/4916) _(by Karan Anand)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Karan Anand
+-   Neeraj Pathak
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
